@@ -1,0 +1,49 @@
+.header {
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 4px, black;
+    padding: 5px;
+    letter-spacing: 20px;
+}
+.open {
+    background-color: lightblue;
+    padding: 5px;
+    margin: 10px;
+}
+body {
+    background-image: url(https://images.pexels.com/photos/757444/pexels-photo-757444.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.main-page {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    column-gap: 10px
+}
+.image {
+    width: 300px;
+    height: 250px;
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 10px;
+}
+h2 {
+    text-align: center;
+}
+.items {
+    text-align: center;
+}
+.text {
+    background-color: lightcoral;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+.footer {
+    text-align: center;
+}
